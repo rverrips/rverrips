@@ -1,6 +1,11 @@
-<!----- <img src="https://github-readme-stats.vercel.app/api?username=rverrips&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
+## Hi, I'm [@rverrips](https://github.com/rverrips) 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rverrips&theme=dark&layout=compact&include_all_commits=true&include_private=true&langs_count=10&border_radius=12"> 
------>
+[![Website](https://img.shields.io/badge/website-verrips.org-1D6FA4?style=flat-square)](https://verrips.org)
+![Profile views](https://komarev.com/ghpvc/?username=rverrips&color=1D6FA4&style=flat-square&label=views)
 
-https://verrips.org
+<img align="left" src="https://verrips.org/api/stats?theme=dark" height="195">
+<img align="left" src="https://verrips.org/api/top-langs?theme=dark" height="195">
+
+<br clear="left">
+
+<img src="https://verrips.org/api/streak?theme=dark" height="195">
